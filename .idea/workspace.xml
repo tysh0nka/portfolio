@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ba6cb2-fb0f-46cd-819f-167d668f46cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Contacts/Contacts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Contacts/Contacts.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Footer/Footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Footer/Footer.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Header/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Header/nav/Nav.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Header/nav/Nav.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Main.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Main.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Porojects/Project/Project.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Porojects/Project/Project.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Porojects/Projects.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Porojects/Projects.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skills/Skill/Skill.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skills/Skill/Skill.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skills/Skills.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Skills/Skills.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/common/styles/Container.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +79,7 @@
       <workItem from="1643310725675" duration="8745000" />
       <workItem from="1643360758987" duration="1298000" />
       <workItem from="1643362078765" duration="362000" />
-      <workItem from="1643362719247" duration="7084000" />
+      <workItem from="1643362719247" duration="8577000" />
     </task>
     <servers />
   </component>
