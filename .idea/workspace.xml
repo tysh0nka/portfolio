@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19ba6cb2-fb0f-46cd-819f-167d668f46cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Contacts/Contacts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Contacts/Contacts.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Footer/Footer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Footer/Footer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Header/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Header/nav/Nav.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Header/nav/Nav.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main/Main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Porojects/Project/Project.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Porojects/Project/Project.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Porojects/Projects.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Porojects/Projects.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Skills/Skill/Skill.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Skills/Skill/Skill.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Skills/Skills.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Skills/Skills.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common/styles/Container.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24IEaHpJW3dZULh5J0YIWmdjYt3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Header/nav" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\project\portfolio\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project\portfolio\src\Header\nav" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\portfolio\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19ba6cb2-fb0f-46cd-819f-167d668f46cb" name="Changes" comment="" />
+      <created>1643309763520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643309763520</updated>
+      <workItem from="1643309764587" duration="932000" />
+      <workItem from="1643310725675" duration="8745000" />
+      <workItem from="1643360758987" duration="1298000" />
+      <workItem from="1643362078765" duration="362000" />
+      <workItem from="1643362719247" duration="7084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
