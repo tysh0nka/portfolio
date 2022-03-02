@@ -1,0 +1,55 @@
+.contacts {
+    background-color: #f6f6f6;
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 26px;
+    .container {
+        width: 80%;
+        margin: 0 auto;
+        min-height: 67vh;
+        .title {
+            margin: 0 0 30px;
+            padding-top: 10px;
+            height: 70px;
+            width: 100%;
+            text-align: center;
+        }
+
+        .line {
+            width: 30px;
+            height: 1.5px;
+            background-color: black;
+            margin: 0 auto;
+        }
+        .form {
+            margin: 30px auto;
+            width: 300px;
+            height: 300px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            @media (max-width: 380px) {
+                width: 100%;
+            }
+            input {
+                height: 30px;
+            }
+
+            .button {
+                width: 100px;
+                height: 35px;
+                margin: 0 auto;
+            }
+
+            .textarea {
+                height: 100px;
+                resize: none;
+            }
+
+        }
+    }
+}
+
+
+
+
+

@@ -1,0 +1,19 @@
+.title {
+  margin: 0 0 30px;
+  padding-top: 60px;
+  height: 70px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Smooch Sans', sans-serif;
+  font-size: 26px;
+  @media (max-width: 1000px) {
+    padding-top: 30px;
+  }
+}
+
+.line {
+  width: 30px;
+  height: 1.5px;
+  background-color: black;
+  margin: 0 auto;
+}

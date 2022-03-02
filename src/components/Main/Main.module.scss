@@ -1,0 +1,42 @@
+
+
+.main {
+  height: 100vh;
+  background-color: white;
+  display: flex;
+  font-family: 'Smooch Sans', sans-serif;
+  @media (max-width: 750px) {
+    margin-top: 30px;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 56px;
+    font-weight: 600;
+  }
+  span {
+    font-size: 36px;
+  }
+  p {
+    margin-top: 0;
+  }
+
+  .text {
+    width: 300px;
+    background-color: white;
+  }
+
+  .photo {
+    @media (max-width: 750px) {
+      margin-top: -100px;
+    }
+    img {
+      width: 300px;
+    }
+  }
+}
+
+
+
+
+

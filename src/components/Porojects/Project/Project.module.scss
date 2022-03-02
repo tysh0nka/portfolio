@@ -1,0 +1,57 @@
+.project {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+    @media (max-width: 1000px) {
+        margin-bottom: 30px;
+    }
+    @media (max-width: 450px) {
+        width: 300px;
+    }
+    .img {
+        height: 300px;
+        width: 400px;
+        background-color: darkgrey;
+        background-size: cover;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        @media (max-width: 450px) {
+            width: 300px;
+            height: 225px;
+        }
+        ::before {
+            content: '';
+            position: absolute;
+            background-color: black;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            opacity: 0.25;
+        }
+        .button {
+            background-color: black;
+            opacity: 0.25;
+            width: 120px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 1;
+            a {
+                text-decoration: none;
+                color: #f6f6f6;
+            }
+        }
+    }
+    .description {
+        padding:0 20px;
+    }
+}
+
+
+
