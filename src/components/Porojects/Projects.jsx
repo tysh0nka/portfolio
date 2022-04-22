@@ -4,6 +4,7 @@ import Project from "./Project/Project";
 import Title from "../../common/Title/Title";
 import todoImage from '../../assets/img/projects/todo.png'
 import socialImage from '../../assets/img/projects/social.jpg'
+import Fade from 'react-reveal/Fade';
 function Projects() {
 
     const styleTodo = {
@@ -19,8 +20,12 @@ function Projects() {
             <div className={classes.container}>
                 <Title title={'Projects'}/>
                 <div className={classes.projects}>
-                    <Project title={'Social Network'} style={styleSocial}/>
-                    <Project title={'To-do list'} style={styleTodo}/>
+                    <Fade left>
+                        <Project title={'Social Network'} style={styleSocial}/>
+                    </Fade>
+                    <Fade right>
+                        <Project title={'To-do list'} style={styleTodo}/>
+                    </Fade>
                 </div>
             </div>
         </div>

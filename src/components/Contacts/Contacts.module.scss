@@ -21,7 +21,7 @@
             margin: 0 auto;
         }
         .form {
-            margin: 30px auto;
+            margin: 60px auto;
             width: 300px;
             height: 300px;
             display: flex;
@@ -38,6 +38,15 @@
                 width: 100px;
                 height: 35px;
                 margin: 0 auto;
+                background-color: white;
+                color: black;
+                border: 1px solid #000000;
+                &:hover {
+                    background: whitesmoke;
+                }
+                &:active {
+                    background: white;
+                }
             }
 
             .textarea {

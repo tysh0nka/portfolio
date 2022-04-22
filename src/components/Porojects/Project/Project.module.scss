@@ -10,6 +10,9 @@
     @media (max-width: 450px) {
         width: 300px;
     }
+    &:hover {
+        cursor: pointer;
+    }
     .img {
         height: 300px;
         width: 400px;

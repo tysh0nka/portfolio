@@ -19,8 +19,11 @@
 
     }
 
+    @media (max-width: 1004px) {
+    width: 140px;
+}
     @media (max-width: 750px) {
-        width: 150px;
+        width: 140px;
     }
     @media (max-width: 375px) {
         width: 100px;
